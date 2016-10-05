@@ -23,7 +23,7 @@ echo "--  .______   .______       __    __  .___________. _______     _______   
 	 * @author mutahzc0de aka Muhammad Taufiq Hidayat
 	 * @package	Bruteforce Tools By Mutahzc0de
 	 * @copyright	Copyright (c) 2013 - 2016.
-	 * @license	http://opensource.org/licenses/MIT	MIT License
+	 * @license	http://mutahzc0de.com MCL
 	 * @since	Version 1.0.0
 	 * @see http://mutahzc0de.com/bruteforce-tools.html
 	 * @link  http://mutahzc0de.com
